@@ -149,4 +149,7 @@ Removed the slice and returned the whole songs list. The songs were always store
 
 ## Git Log Screenshot
 
-<!-- Milestone 4: paste/embed screenshot of `git log --oneline` on bugfix/mixtape showing one commit per fix. -->
+`git log --oneline` on `bugfix/mixtape` — one `fix:` commit per bug:
+
+![git log --oneline on bugfix/mixtape](terminal.png)
+
