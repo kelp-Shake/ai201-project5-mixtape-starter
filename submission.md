@@ -1,7 +1,7 @@
 # Mixtape Bug Hunt — Submission
 
 > Branch: `bugfix/mixtape`
-> Repo (branch URL): `https://github.com/<you>/ai201-project5-mixtape-starter/tree/bugfix/mixtape`
+> Repo (branch URL): `hhttps://github.com/kelp-Shake/ai201-project5-mixtape-starter/tree/bugfix/mixtape`
 
 ---
 
